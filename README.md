@@ -25,6 +25,6 @@ Our capstone project is centered around assisting our client, SicPama Co., Ltd. 
     - **main_etl_dag.py**: Main script responsible for extracting data from Google Cloud Storage and executing the data transformation process.
 
 ### Google Looker Dashboard
-https://lookerstudio.google.com/s/hlu_Bk-3Rnc
+View in the final presentation slides.
 
 
