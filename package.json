@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "git-cz": "^4.3.1",
+    "husky": "^7.0.4"
+  },
+  "scripts": {
+    "commit": "npx git-cz"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run commit"
+    }
+  },
+  "dependencies": {
+    "commitizen": "^4.3.0"
+  }
+}

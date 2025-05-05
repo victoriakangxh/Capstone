@@ -1,0 +1,4 @@
+pandas
+apache-airflow
+pandas_gbq
+apache-airflow-providers-google
